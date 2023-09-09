@@ -1,25 +1,25 @@
 [
     {
-        "title": "Form Website",
-        "tech": "HTML & CSS",
-        "image": "./assets/img/project/form.png",
-        "desc":"This is my first project. I Learn in freecodecamp to make form website using HTML & CSS",
+        "title": "Fortolio Website",
+        "tech": "HTML, CSS &amp; JS",
+        "image": "./assets/img/project/web.png",
+        "desc":"This is my first project. I Learn in Visual Studio Code to make Fortolio website using HTML &amp; CSS",
         "links": {
-            "demo": "https://septiandwica.github.io/Survey-Form/",
+            "demo": "https://pras82.github.io/html/",
             "code": "https://github.com/Septiandwica/Survey-Form"
         }
     },
     {
-        "title": "Learn Code Website",
-        "tech": "HTML, CSS & JS",
-        "image": "./assets/img/project/proyek web dasar.png",
-        "desc":"This is my for dicoding submission.",
+        "title": "Projeck BK",
+        "tech": "CANVA",
+        "image": "./assets/img/project/tugas bk.png",
+        "desc":"Tugas BK.",
         "links": {
-            "demo": "https://septiandwica.github.io/Project-Web-Dasar/",
-            "code": "https://github.com/Septiandwica/Project-Web-Dasar"
+            "demo": "https://www.canva.com/design/DAFrDAjAd5E/Eb6EdfoXF9Q3I7Pft7DPew/view?utm_content=DAFrDAjAd5E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelinkhttps://www.canva.com/design/DAFrDAjAd5E/Eb6EdfoXF9Q3I7Pft7DPew/view?utm_content=DAFrDAjAd5E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
+            "code": "404.html"
         }
     },{
-        "title": "BookShelf Web App",
+        "title": "coming soon",
         "tech": "HTML & CSS",
         "image": "./assets/img/project/bookshelf app.png",
         "desc":"This is my project for dicoding submission.",
@@ -36,14 +36,6 @@
             "demo": "https://thaliaeducation.septiandwica.site",
             "code": "https://github.com/Septiandwica/Company-Profile-1"
         }
-    },{
-        "title": "Portfolio Website",
-        "tech": "HTML, CSS, JS & BOOTSTRAP",
-        "image": "./assets/img/project/portfolio.png",
-        "desc": "This is my project for personal portfolio.",
-        "links": {
-            "demo": "https://septiandwica.site",
-            "code": "https://github.com/Septiandwica/"
-        }
+    },
     }
 ]
